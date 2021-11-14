@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/zoumanakeita/Desktop/Perso/Medium%20Posts/Streamlit%20Example/mlflowdemobyzoumana/mlruns/1/798f80e4aa28404fbc88ff4a36e73dfb/artifacts
+end_time: 1636908394574
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 798f80e4aa28404fbc88ff4a36e73dfb
+run_uuid: 798f80e4aa28404fbc88ff4a36e73dfb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1636908390395
+status: 3
+tags: []
+user_id: zoumanakeita

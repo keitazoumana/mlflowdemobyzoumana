@@ -1,0 +1,4 @@
+artifact_location: file:///Users/zoumanakeita/Desktop/Perso/Medium%20Posts/Streamlit%20Example/mlflowdemobyzoumana/mlruns/1
+experiment_id: '1'
+lifecycle_stage: active
+name: 'MlFlow: Spam Classifiers'
